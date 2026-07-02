@@ -5,7 +5,7 @@ export default function Home() {
     <main>
       <MainLayout>
         <h1 className='text-center text-2xl font-bold'>
-          Hello,World I am puratina
+          Hello,World I am puratina.
         </h1>
       </MainLayout>
     </main>
